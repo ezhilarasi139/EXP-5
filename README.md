@@ -1,5 +1,6 @@
 # EXP-5 ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
-
+### NAME : EZHILARASI N
+### REG NO : 212224040088
 ## AIM
 To find the Zener Break down voltage regulation condition.
 
