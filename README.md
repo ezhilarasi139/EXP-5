@@ -28,7 +28,13 @@ S.No	Name of the Apparatus	  Range         	Quantity
 7	     Connecting Wires	      As Required	
 
 ## CIRCUIT DIAGRAM:
+### LINE REGULATION: 
 
+![WhatsApp Image 2025-11-05 at 12 36 42 AM](https://github.com/user-attachments/assets/5e85e0a8-1915-4535-9f49-15d1d1ad2247)
+
+### LOAD REGULATION:
+
+![WhatsApp Image 2025-11-05 at 12 38 40 AM](https://github.com/user-attachments/assets/736eacf6-6a3d-4182-9329-7198b8ec33ef)
 
 ## THEORY:
 	
@@ -45,9 +51,27 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 ## OBSERVATIONS:
 
+### LINE REGULATION: 
+
+<img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/5d888e6a-542a-4638-b1f8-63dcfdfa4ad9" />
+
+<img width="1920" height="1200" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/72727694-7c40-432a-9bd6-72d811cbd41a" />
+
+
+### LOAD REGULATION:
+
+<img width="1280" height="777" alt="image" src="https://github.com/user-attachments/assets/7cd709e4-8b29-4263-94e9-598b4715fcbe" />
+
+<img width="1920" height="1200" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/5894b285-fde8-475c-8067-2a4dc91ee659" />
+
+
 ## REGULATION CHARACTERISTICS:
 
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/6d3ba167-c9d9-49e9-823a-6b8fa34d189e" />
+
 ## V-I & REGULATION CHARACTERISTICS:
+
+<img width="1280" height="746" alt="image" src="https://github.com/user-attachments/assets/8b3eb876-acbb-489c-b307-8aceba05a628" />
 
 ## PRECAUTIONS:
 
